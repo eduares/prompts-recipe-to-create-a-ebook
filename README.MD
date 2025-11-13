@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src=".github\assets\banner.png">
 </p>
 
 -------
@@ -20,7 +20,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/eduares/prompts-recipe-to-create-a-ebook/blob/main/output/ebook.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -47,7 +47,7 @@ ChatGPT：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via ChatGpt (A proposta inicial do projeto era que fosse usado o MidJourney, mas como não consegui utilizá-lo, gerei a imagens com o ChatGPT)
+- Imagens geradas via ChatGpt (A proposta inicial do projeto era que fosse usado o MidJourney, mas como não consegui utilizá-lo por ser uma plataforma paga, gerei as imagens com o ChatGPT)
 
 ## 📚 Materiais
 
